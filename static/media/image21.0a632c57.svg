@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="cooking_icon" transform="translate(8158.849 -836.255)">
+    <circle id="Ellipse_171" data-name="Ellipse 171" cx="15" cy="15" r="15" transform="translate(-8158.849 836.255)" fill="#334853"/>
+    <g id="chef" transform="translate(-8152.223 842.586)">
+      <path id="Path_1667" data-name="Path 1667" d="M13.674,1.7a3.084,3.084,0,0,0-2.228.948,3.094,3.094,0,0,0-6.125,0A3.094,3.094,0,1,0,3.094,7.893v3.976h10.58V7.893a3.094,3.094,0,0,0,0-6.189Z" transform="translate(0 0)" fill="#009dff"/>
+      <rect id="Rectangle_2766" data-name="Rectangle 2766" width="10.118" height="3.071" transform="translate(3.369 13.697)" fill="#ecedef"/>
+      <path id="Path_1668" data-name="Path 1668" d="M1.014,0H11.554a1.014,1.014,0,0,1,1.014,1.014V2.058a1.014,1.014,0,0,1-1.014,1.014H1.014A1.014,1.014,0,0,1,0,2.058V1.014A1.014,1.014,0,0,1,1.014,0Z" transform="translate(2.144 11.247)" fill="#ffba1b"/>
+    </g>
+  </g>
+</svg>
