@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <clipPath id="clip-footer_logo">
+      <rect width="56" height="56"/>
+    </clipPath>
+  </defs>
+  <g id="footer_logo" data-name="footer logo" clip-path="url(#clip-footer_logo)">
+    <g id="Group_33" data-name="Group 33" transform="translate(3967.771 390.534)">
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="56" height="56" rx="4.489" transform="translate(-3967.771 -390.534)"/>
+      <g id="Group_32" data-name="Group 32">
+        <path id="Path_51" data-name="Path 51" d="M-3961.029-377.081h13.266a13.369,13.369,0,0,1,9.9,4.232,14.2,14.2,0,0,1,4.14,10.315,14.193,14.193,0,0,1-4.14,10.315,13.368,13.368,0,0,1-9.9,4.231H-3953l-.045-5.718h4.392a8.82,8.82,0,0,0,6.451-2.538,8.48,8.48,0,0,0,2.576-6.29,8.61,8.61,0,0,0-2.607-6.4,8.844,8.844,0,0,0-6.45-2.562h-6.725l.046,15.445h-5.672Z" fill="#fff"/>
+        <path id="Path_52" data-name="Path 52" d="M-3955.358-347.988h-5.671v-5.717h5.655Z" fill="#fe0000"/>
+        <path id="Path_53" data-name="Path 53" d="M-3933.975-347.988l.046-5.626h5.672a3.982,3.982,0,0,0,2.928-1.189,3.983,3.983,0,0,0,1.189-2.928,7.611,7.611,0,0,0-2.447-5.81q-2.448-2.286-4.781-4.482-2.562-3.339-2.561-9.058h5.672a12.917,12.917,0,0,0,2.516,8.371l4.666,4.392a9.015,9.015,0,0,1,2.561,6.587,9.4,9.4,0,0,1-2.836,6.907,9.4,9.4,0,0,1-6.907,2.836Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

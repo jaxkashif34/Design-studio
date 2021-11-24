@@ -1,0 +1,65 @@
+// BackGround Style
+.Header_main {
+  overflow-x: hidden;
+}
+.background {
+  position: absolute;
+  width: 100vw !important;
+  height: 100vh !important;
+  background-color: #f7f7f7;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: -90;
+  .individual_Line {
+    width: 1px;
+    height: 100vh;
+    background-color: rgb(180, 180, 180);
+  }
+  .line_circle {
+    margin: 0 0.5em;
+    width: 1.5em;
+    height: 100vh;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -0.5%;
+    // padding-right: 1em;
+    .line {
+      position: relative;
+      width: 1px;
+      height: 100vh;
+      background-color: grey;
+    }
+    .circle {
+      position: absolute;
+      width: 2.2em;
+      height: 2.2em;
+      background-color: #f7f7f7;
+      border-radius: 50%;
+      border: 2px solid gray;
+    }
+  }
+  .line_circle3 {
+    .circle {
+      top: 20%;
+    }
+  }
+  .line_circle2 {
+    .circle {
+      bottom: 20%;
+    }
+  }
+  .line_circle1 {
+    .circle {
+      top: 20%;
+    }
+  }
+}
+
+@media (max-width: 991px) {
+  .individual_Line {
+    display: none;
+  }
+}

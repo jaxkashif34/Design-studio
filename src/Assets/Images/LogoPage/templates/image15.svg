@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.884" height="29.818" viewBox="0 0 29.884 29.818">
+  <g id="christmas_icon" transform="translate(-6300 -521.817)">
+    <g id="Group_1010" data-name="Group 1010" transform="translate(-163 1109)">
+      <path id="Path_1303" data-name="Path 1303" d="M14.942,0A14.909,14.909,0,1,1,0,14.909,14.926,14.926,0,0,1,14.942,0Z" transform="translate(6463 -587.183)" fill="#334853"/>
+      <g id="Group_974" data-name="Group 974" transform="translate(6466 -584.138)">
+        <path id="Path_1272" data-name="Path 1272" d="M23.728,11.864A11.864,11.864,0,1,1,11.864,0,11.863,11.863,0,0,1,23.728,11.864Z" fill="#009dff"/>
+      </g>
+      <g id="Group_975" data-name="Group 975" transform="translate(6466 -584.137)">
+        <circle id="Ellipse_156" data-name="Ellipse 156" cx="11.864" cy="11.864" r="11.864" fill="#009dff"/>
+      </g>
+    </g>
+    <g id="Group_1011" data-name="Group 1011" transform="translate(6306.417 528.816)">
+      <path id="Path_1365" data-name="Path 1365" d="M46.567,5.784a8.61,8.61,0,0,0-5.055-5.3A7.285,7.285,0,0,0,40.437.146a6.465,6.465,0,0,0-3.8.282l-.023.011A8.616,8.616,0,0,0,31.6,5.784L31.22,6.963a18.853,18.853,0,0,0-.92,5.81H44.591a18.835,18.835,0,0,0-.92-5.81l-.383-1.179Z" transform="translate(-29.162 0)" fill="#ffba1b"/>
+      <path id="Path_1367" data-name="Path 1367" d="M31.32,179.544a18.853,18.853,0,0,0-.92,5.81H44.691a18.835,18.835,0,0,0-.92-5.81l-.079-.244H31.4Z" transform="translate(-29.258 -172.581)" fill="#ffba1b"/>
+      <path id="Path_1368" data-name="Path 1368" d="M368.646,92.034l-.229-.695a1.329,1.329,0,0,1,1.266-1.739h.274a1.323,1.323,0,0,1,1.123.62s0,0,0,.008a8.088,8.088,0,0,1,.838,1.807Z" transform="translate(-354.516 -86.25)" fill="#c18700"/>
+      <path id="Path_1369" data-name="Path 1369" d="M15.166,279.729H1.416A1.415,1.415,0,0,1,0,278.313v-.6A1.417,1.417,0,0,1,1.416,276.3h13.75a1.417,1.417,0,0,1,1.416,1.416v.6A1.415,1.415,0,0,1,15.166,279.729Z" transform="translate(0 -265.937)" fill="#fff"/>
+      <path id="Path_1371" data-name="Path 1371" d="M418.451,107.625a1.825,1.825,0,1,1-1.825-1.825A1.827,1.827,0,0,1,418.451,107.625Z" transform="translate(-399.22 -101.841)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

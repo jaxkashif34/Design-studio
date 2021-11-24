@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.82" height="29.82" viewBox="0 0 29.82 29.82">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2793" data-name="Rectangle 2793" width="29.82" height="29.82" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1544" data-name="Group 1544" transform="translate(-9.363 -4008.39)">
+    <g id="Group_1543" data-name="Group 1543" transform="translate(9.363 4008.39)">
+      <g id="Group_1542" data-name="Group 1542" clip-path="url(#clip-path)">
+        <g id="Group_1541" data-name="Group 1541" transform="translate(0 0)">
+          <g id="Group_1540" data-name="Group 1540" clip-path="url(#clip-path)">
+            <path id="Path_1746" data-name="Path 1746" d="M25.274,4.194A14.908,14.908,0,1,0,29.82,14.909,14.857,14.857,0,0,0,25.274,4.194M14.909,3.451a1.633,1.633,0,1,1-1.633,1.633,1.631,1.631,0,0,1,1.633-1.633" transform="translate(0 0)" fill="#334853"/>
+            <path id="Path_1747" data-name="Path 1747" d="M20.086,7.068A13.015,13.015,0,1,0,33.1,20.083,13.016,13.016,0,0,0,20.086,7.068m0,4.823a1.633,1.633,0,1,1,1.633-1.633,1.631,1.631,0,0,1-1.633,1.633" transform="translate(-5.177 -5.174)" fill="#009dff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1545" data-name="Group 1545" transform="translate(16.239 4015.985)">
+      <text id="BLACK" transform="translate(0.034 7)" fill="#fff" font-size="5" font-family="BebasNeue, Bebas Neue"><tspan x="0" y="0">BLACK</tspan></text>
+      <text id="FRIDAY" transform="translate(0.034 14.16)" fill="#fff" font-size="5" font-family="BebasNeue, Bebas Neue"><tspan x="0" y="0">FRID</tspan><tspan y="0" letter-spacing="-0.049em">A</tspan><tspan y="0">Y</tspan></text>
+    </g>
+  </g>
+</svg>

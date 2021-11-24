@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="medical_icon" transform="translate(8158.849 -836.255)">
+    <ellipse id="Ellipse_171" data-name="Ellipse 171" cx="15" cy="15" rx="15" ry="15" transform="translate(-8158.849 836.255)" fill="#334853"/>
+    <g id="Group_1512" data-name="Group 1512" transform="translate(-8150.839 844.159)">
+      <rect id="Rectangle_2782" data-name="Rectangle 2782" width="4.751" height="4.624" transform="translate(9.376 4.751)" fill="#ffba1b"/>
+      <rect id="Rectangle_2783" data-name="Rectangle 2783" width="4.624" height="4.751" transform="translate(4.751 9.376)" fill="#fff"/>
+      <path id="Path_1682" data-name="Path 1682" d="M2069.7-9.55V-.174h-9.376V-4.8h4.751V-9.55Z" transform="translate(-2060.32 9.55)" fill="#009dff"/>
+    </g>
+  </g>
+</svg>
